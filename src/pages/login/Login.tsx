@@ -37,6 +37,7 @@ const Login = () => {
                     <span>비밀번호 찾기</span>
                     <span>회원가입</span>
                 </div>
+                
             </div>
         </div>
     );
