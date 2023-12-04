@@ -1,5 +1,4 @@
 import loginStyle from './Login.module.scss';
-
 import React from "react";
 
 import logoImage from '../../images/logo.png';
@@ -37,7 +36,7 @@ const Login = () => {
                     <span>비밀번호 찾기</span>
                     <span>회원가입</span>
                 </div>
-                
+
             </div>
         </div>
     );

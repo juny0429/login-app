@@ -107,15 +107,6 @@ form {
     }
 }
 
-/* 폰트 설정 */
-@font-face {
-    font-family: 'ZillaSlab';
-    src: url('../../../public/fonts/ZillaSlab-Regular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-
-
 /* 작은 화면(모바일)에 대한 스타일 */
 @media screen and (max-width: 767px) {
 
